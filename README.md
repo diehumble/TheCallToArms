@@ -8,4 +8,4 @@ Mr. President, it is natural to man to indulge in the illusions of hope. We are 
 
 ---
 
-To learn more about Patrick Henry <a href="https://en.wikipedia.org/wiki/Patrick_Henry">visit his Wikipedia entry</a>.
+To learn more about Patrick Henry <a href="https://en.wikipedia.org/wiki/Patrick_Henry" target="_blank">visit his Wikipedia entry</a>.
